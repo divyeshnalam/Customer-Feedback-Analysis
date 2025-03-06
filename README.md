@@ -1,5 +1,3 @@
-# Customer-Feedback-Analysis
-
 # Customer Feedback Analysis System
 
 ## Overview
