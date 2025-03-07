@@ -9,7 +9,7 @@ The **Customer Feedback Analysis System** integrates **Salesforce, AWS, and SQL*
 - **Salesforce:** Stores customer feedback using a **custom object**.
 - **AWS Lambda & S3:** Extracts feedback from Salesforce and stores it in **Amazon S3**.
 - **Amazon RDS (MySQL/PostgreSQL):** Stores and analyzes feedback using SQL queries.
-- **GitHub:** Showcases the project code and SQL queries.
+- **Python (Boto3, PyMySQL, CSV)**
 
 ---
 
